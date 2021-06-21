@@ -4,7 +4,7 @@ node_modules/
 prod.config.js
 start.config.js
 package-lock.json
-packgage.json
+package.json
 
 src/
 yarn.lock
