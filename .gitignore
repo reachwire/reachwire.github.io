@@ -1,9 +1,11 @@
 node_modules/
 .idea/*
 
-prod.config.json
-start.config.json
+prod.config.js
+start.config.js
 package-lock.json
+packgage.json
+
 src/
 yarn.lock
 .eslintrc.js
