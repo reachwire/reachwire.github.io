@@ -1,8 +1,7 @@
 node_modules/
 prod.config.json
 start.config.json
-src/scss
-src/js
-src/fonts
+package-lock.json
+src/
 yarn.lock
 .eslintrc.js
